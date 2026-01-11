@@ -26,6 +26,6 @@ Application web de traçabilité industrielle permettant la gestion de lots, le 
 2. node server.js
 3. Ouvrir index.html
 
-## Capture d'écran du projet
+## Capture d'écran de l'application
 
 ![Capture d'écran de l'application](screenshots/screenshot1.png)
