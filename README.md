@@ -28,4 +28,4 @@ Application web de traçabilité industrielle permettant la gestion de lots, le 
 
 ## Capture d'écran du projet
 
-![Capture du projet](screenshots/screenshot1.png)
+![Capture d'écran de l'application](screenshots/screenshot1.png)
